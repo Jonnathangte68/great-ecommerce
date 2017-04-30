@@ -1,0 +1,12 @@
+.seguidilla {
+	top: 60px;
+	left: 40px;
+	width: 60px;
+	height: 60px;
+}
+
+#imagencentral {
+	width: 100%;
+	height: 400px;
+	z-index: -1;
+}
